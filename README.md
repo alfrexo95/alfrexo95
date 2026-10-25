@@ -74,3 +74,17 @@ I build and deploy autonomous agents that generate income and support decentrali
 *   **[nostr-content-bot](https://github.com/alfrexo95/nostr-content-bot)** & **[Hive-Auto-Bot](https://github.com/alfrexo95/Hive-Auto-Bot)** - Automated content creators and engagement bots for decentralized social networks.
 
 > *"Building freedom tech with Termux from Cuba."* ⚡🇨🇺
+
+---
+
+## 🤖 My AI & Web3 Bots (Live & Working)
+
+I build and deploy autonomous agents that generate income and support decentralized causes. Here is my current fleet:
+
+*   **[x402-api](https://github.com/alfrexo95/x402-api)** - A premium API charging USDC via the x402 protocol. Offers AI Translation, Market Analysis, Token Audits, and more. *Status: Live on Render.*
+*   **[ai-agent-seller](https://github.com/alfrexo95/ai-agent-seller)** - An AI sales agent deployed on the Agentsouk marketplace. Sells automated skills and accepts crypto payments.
+*   **[FondosAngor](https://github.com/alfrexo95/FondosAngor)** - A decentralized fundraising campaign using Nostr, Hive, and Crypto to support vulnerable families in Cuba under the blockade.
+*   **[bounty-bot](https://github.com/alfrexo95/bounty-bot)** - An automated hunter for open-source bounties on GitHub, filtering for real crypto payments.
+*   **[nostr-content-bot](https://github.com/alfrexo95/nostr-content-bot)** & **[Hive-Auto-Bot](https://github.com/alfrexo95/Hive-Auto-Bot)** - Automated content creators and engagement bots for decentralized social networks.
+
+> *"Building freedom tech with Termux from Cuba."* ⚡🇨🇺
